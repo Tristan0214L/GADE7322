@@ -19,8 +19,9 @@ public class GADE7322 : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"Niagara",
-			"UMG"
-		});
+			"UMG",
+            "ProceduralMeshComponent"
+        });
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
 
